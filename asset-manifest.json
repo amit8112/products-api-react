@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/products-api-react/static/css/main.b411014d.css",
+    "main.js": "/products-api-react/static/js/main.602f879b.js",
+    "index.html": "/products-api-react/index.html",
+    "main.b411014d.css.map": "/products-api-react/static/css/main.b411014d.css.map",
+    "main.602f879b.js.map": "/products-api-react/static/js/main.602f879b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b411014d.css",
+    "static/js/main.602f879b.js"
+  ]
+}
